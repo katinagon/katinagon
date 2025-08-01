@@ -6,7 +6,7 @@
 - 💡 Specializing in Manual/Automation Testing  
 - 🏆 Passionate about finding bugs and improving product quality  
 
-# Stack:
+## Stack:
 
 <a href="https://www.java.com/"><img src="media/logo/Java.svg" width="60" height="60"  alt="Java"/></a>
 <a id ="tech" href="https://www.jetbrains.com/idea/"><img src="media/logo/Idea.svg" width="60" height="60"  alt="IDEA"/></a>
@@ -26,7 +26,11 @@
 <a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
 <a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="50" height="50"/></a>
 
-# My Stats
+## My projects
+:desktop_computer: [4lapy.ru](https://github.com/katinagon/four_paws) - Test automation project (UI+API) for 4lapy.ru
+:iphone: [Wiki-mobile-tests](https://github.com/katinagon/wiki_mobile) - Test automation project for mobile app (Android) "Wikipedia"
+
+## My Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katinagon&theme=tokyonight" alt="Profile Details">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=katinagon&theme=tokyonight" alt="Stats">
