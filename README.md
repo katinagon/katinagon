@@ -1,5 +1,5 @@
 # Hi there, I'm Kate 👋  
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AB75BD&width=435&lines=QA+Automation;Quality+Assurance+Engineer;Web+testing;API+testing" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%23FF00FF&width=435&lines=QA+Automation;Quality+Assurance+Engineer;Web+testing;API+testing" alt="Typing SVG" /></a>
 
 🔍 **About Me:**  
 - 🚀 Working in IT since 2023 
