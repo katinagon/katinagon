@@ -28,12 +28,6 @@
 <a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
 <a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="50" height="50"/></a>
 
-**Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-
 ---
 
 ## My Stats
