@@ -10,7 +10,7 @@
 
 <a href="https://www.java.com/"><img src="media/Java.svg" width="60" height="60"  alt="Java"/></a>
 <a id ="tech" href="https://www.jetbrains.com/idea/"><img src="media/Intelij_IDEA.svg" width="60" height="60"  alt="IDEA"/></a>
-<a href="https://junit.org/junit5"><img src="media/JUnit5" title="JUnit5" alt="JUnit5" width="50" height="50"/></a>
+<a href="https://junit.org/junit5"><img src="media/JUnit5.svg" title="JUnit5" alt="JUnit5" width="50" height="50"/></a>
 <a href="https://selenide.org"><img src="media/Selenide.svg" title="Selenide" alt="Selenide" width="50" height="50"/></a>
 <a href="https://rest-assured.io"><img src="media/RestAssured.svg" title="REST Assured" alt="REST Assured" width="50" height="50"/></a>
 <a href="https://gradle.org"><img src="media/Gradle.svg" title="Gradle" alt="Gradle" width="50" height="50"/></a>
