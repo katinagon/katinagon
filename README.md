@@ -1,5 +1,5 @@
 # Hi there, I'm Kate 👋  
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%23FF00FF&width=435&lines=QA+Automation;Quality+Assurance+Engineer;Web+testing;API+testing" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%23FF00FF&width=435&lines=Quality+Assurance+Engineer;QA+Automation;Web+testing;API+testing" alt="Typing SVG" /></a>
 
 🔍 **About Me:**  
 - 🚀 Working in IT since 2023 
@@ -8,13 +8,25 @@
 
 ---
 
-### 🛠 Tech Stack:  
-**Testing:**  
-![Manual Testing](https://img.shields.io/badge/-Manual_Testing-FF6B6B?style=flat)  
-![Automation Testing](https://img.shields.io/badge/-Automation-43B02A?style=flat)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)  
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)  
+## Stack:
+
+<a href="https://www.java.com/"><img src="media/logo/Java.svg" width="60" height="60"  alt="Java"/></a>
+<a id ="tech" href="https://www.jetbrains.com/idea/"><img src="media/logo/Idea.svg" width="60" height="60"  alt="IDEA"/></a>
+<a href="https://www.postgresql.org"><img src="icons/postgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/></a>
+<a href="https://www.docker.com"><img src="icons/docker.svg" title="Docker" alt="Docker" width="50" height="50"/></a>
+<a href="https://aerokube.com/selenoid/"><img src="icons/selenoid-logo.svg" title="Docker" alt="Docker" width="50" height="50"/></a>
+<a href="https://selenide.org"><img src="icons/selenide.svg" title="Selenide" alt="Selenide" width="50" height="50"/></a>
+<a href="https://www.selenium.dev"><img src="icons/selenuim.svg" title="Selenium" alt="Selenium" width="50" height="50"/></a>
+<a href="https://junit.org/junit5"><img src="icons/junit5.svg" title="JUnit5" alt="JUnit5" width="50" height="50"/></a>
+<a href="https://www.browserstack.com/"><img src="media/logo/Browserstack.svg" width="50" height="50"  alt="Browserstack"/>
+</a><a href="https://rest-assured.io"><img src="icons/rest_assured.svg" title="REST Assured" alt="REST Assured" width="50" height="50"/></a>
+<a href="https://gradle.org"><img src="icons/gradle.svg" title="Gradle" alt="Gradle" width="50" height="50"/></a>
+<a href="https://developer.android.com/studio"><img src="media/logo/Android-studio.svg" width="50" height="50"  alt="Android Studio"/></a>
+<a href="https://appium.io/"><img src="media/logo/Appium.svg" width="50" height="50"  alt="Appium"/></a>
+<a href="https://www.jenkins.io"><img src="icons/jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="icons/jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
+<a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
+<a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="50" height="50"/></a>
 
 **Languages & Tools:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
@@ -24,11 +36,13 @@
 
 ---
 
-### 📈 GitHub Stats:  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/katinagon)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/katinagon)  
-
----
+## My Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katinagon&theme=tokyonight" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=katinagon&theme=tokyonight" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=katinagon&theme=tokyonight" alt="Most Commit Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katinagon&theme=tokyonight" alt="Repos Per Language">
+</p>
 
 ### 📫 How to Reach Me:  
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/katinagon)   
