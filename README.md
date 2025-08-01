@@ -2,7 +2,7 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%23FF00FF&width=435&lines=Quality+Assurance+Engineer;QA+Automation;Web+testing;API+testing" alt="Typing SVG" /></a>
 
 🔍 **About Me:**  
-- 🚀 Working in IT since 2023 
+- 🚀 Working in IT since 2022 
 - 💡 Specializing in Manual/Automation Testing  
 - 🏆 Passionate about finding bugs and improving product quality  
 
