@@ -8,7 +8,7 @@
 
 ---
 
-## Stack:
+# Stack:
 
 <a href="https://www.java.com/"><img src="media/logo/Java.svg" width="60" height="60"  alt="Java"/></a>
 <a id ="tech" href="https://www.jetbrains.com/idea/"><img src="media/logo/Idea.svg" width="60" height="60"  alt="IDEA"/></a>
@@ -30,7 +30,7 @@
 
 ---
 
-## My Stats
+# My Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katinagon&theme=tokyonight" alt="Profile Details">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=katinagon&theme=tokyonight" alt="Stats">
@@ -38,10 +38,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katinagon&theme=tokyonight" alt="Repos Per Language">
 </p>
 
-### 📫 How to Reach Me:  
+# 📫 How to Reach Me:  
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/katinagon)   
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:katinagon@yandex.ru)  
-
----
-
-✨ **Fun Fact:** I test not only software but also life for durability! 😄  
