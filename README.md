@@ -1,12 +1,9 @@
 # Hi there, I'm Kate 👋  
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=%23FF00FF&width=435&lines=Quality+Assurance+Engineer;QA+Automation;Web+testing;API+testing" alt="Typing SVG" /></a>
-
 🔍 **About Me:**  
 - 🚀 Working in IT since 2023 
 - 💡 Specializing in Manual/Automation Testing  
 - 🏆 Passionate about finding bugs and improving product quality  
-
----
 
 # Stack:
 
@@ -28,8 +25,6 @@
 <a href="https://qameta.io/allure-report"><img src="icons/allure_report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
 <a href="https://qameta.io"><img src="icons/allure_testops.svg" title="Allure Testops" alt="REST Assured" width="50" height="50"/></a>
 
----
-
 # My Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=katinagon&theme=tokyonight" alt="Profile Details">
@@ -38,6 +33,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katinagon&theme=tokyonight" alt="Repos Per Language">
 </p>
 
-# 📫 How to Reach Me:  
+## 📫 Contacts:  
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/katinagon)   
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:katinagon@yandex.ru)  
