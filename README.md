@@ -1,23 +1,22 @@
-# Привет, я [Ваше Имя] 👋  
-### QA Engineer | Тестировщик ПО  
+# Hi there, I'm Kate 👋  
+### QA Engineer 
 
-🔍 **Обо мне:**  
-- 🚀 Работаю в IT с [год начала] года  
-- 💡 Специализируюсь на [ручном/автоматизированном] тестировании  
-- 📚 Постоянно учусь: ISTQB, Python, Selenium, Postman  
-- 🏆 Люблю находить баги и улучшать качество продукта  
+🔍 **About Me:**  
+- 🚀 Working in IT since 2023 
+- 💡 Specializing in Manual/Automation Testing  
+- 🏆 Passionate about finding bugs and improving product quality  
 
 ---
 
-### 🛠 Мой стек технологий:  
-**Тестирование:**  
+### 🛠 Tech Stack:  
+**Testing:**  
 ![Manual Testing](https://img.shields.io/badge/-Manual_Testing-FF6B6B?style=flat)  
 ![Automation Testing](https://img.shields.io/badge/-Automation-43B02A?style=flat)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)  
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)  
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)  
 
-**Языки и инструменты:**  
+**Languages & Tools:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
@@ -25,13 +24,16 @@
 
 ---
 
-### 📈 Моя активность на GitHub:  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_NICK&show_icons=true&theme=radical)](https://github.com/ВАШ_NICK)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_NICK&layout=compact&theme=radical)](https://github.com/ВАШ_NICK)  
+### 📈 GitHub Stats:  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/katinagon)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/katinagon)  
 
 ---
 
-### 📫 Как связаться:  
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/ВАШ_НИК)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/ВАШ_НИК)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:ВАША_ПОЧТА)   
+### 📫 How to Reach Me:  
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/katinagon)   
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:katinagon@yandex.ru)  
+
+---
+
+✨ **Fun Fact:** I test not only software but also life for durability! 😄  
