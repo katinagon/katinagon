@@ -22,18 +22,23 @@
 <code><img src="media/RestAssured.svg" title="RestAssured" alt="RestAssured" width="50" height="50"/></code>
 
 
-<a><img src="media/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
-<a><img src="media/Jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/></a>
-<a><img src="media/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/></a>
-<a><img src="media/Git.svg" title="Git" alt="Git" width="50" height="50"/></a>
-<a><img src="media/GitHub.svg" title="GitHub" alt="GitHub" width="50" height="50"/></a>
-<a><img src="media/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/></a>
-<a><img src="media/Browserstack.svg" title="Browserstack" alt="Browserstack" width="50" height="50"/></a>
-<a><img src="media/Jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
+<code><img src="media/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></code>
+<code><img src="media/Jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/></code>
+<code><img src="media/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/></code>
+<code><img src="media/Git.svg" title="Git" alt="Git" width="50" height="50"/></code>
+<code><img src="media/GitHub.svg" title="GitHub" alt="GitHub" width="50" height="50"/></code>
+<code><img src="media/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/></code>
+<code><img src="media/Browserstack.svg" title="Browserstack" alt="Browserstack" width="50" height="50"/></code>
+<code><img src="media/Jira.svg" title="Jira" alt="Jira" width="50" height="50"/></code>
 
-## My projects
+## :unicorn: Pet Projects:
+#### Java
 :desktop_computer: [4lapy.ru](https://github.com/katinagon/four_paws) - Test automation project (UI+API) for 4lapy.ru  
 :iphone: [Wiki-mobile-tests](https://github.com/katinagon/wiki_mobile) - Test automation project for mobile app (Android) "Wikipedia"
+
+#### Python
+:desktop_computer: [UI-автотесты для приложения UI Course](https://github.com/katinagon/autotests-ui)
+:desktop_computer: [API автотесты для микросервиса Course API](https://github.com/katinagon/autotests-api)
 
 ## My Stats
 <p align="center">
