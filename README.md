@@ -8,28 +8,28 @@
 
 ## Stack and tools:
 
-<code><img src="media/Python.svg" title="Python" width="60" height="60"  alt="Python"/></code>
-<code><img src="media/Pycharm.svg" title="Python" width="60" height="60"  alt="Pycharm"/></code>
-<code><img src="media/Pytest.svg" title="Pytest" alt="Pytest" width="50" height="50"/></code>
-<code><img src="media/Selenium.svg" title="Selenium" alt="Selenium" width="50" height="50"/></code>
-<code><img src="media/Playwright.svg" title="Playwright" alt="Playwright" width="50" height="50"/></code>
+<code><img src="media/Python.svg" title="Python" width="40" height="40"  alt="Python"/></code>
+<code><img src="media/Pycharm.svg" title="Python" width="40" height="40"  alt="Pycharm"/></code>
+<code><img src="media/Pytest.svg" title="Pytest" alt="Pytest" width="40" height="40"/></code>
+<code><img src="media/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/></code>
+<code><img src="media/Playwright.svg" title="Playwright" alt="Playwright" width="40" height="40"/></code>
 
-<code><img src="media/Java.svg" title="Java" width="60" height="60"  alt="Java"/></code>
-<code><img src="media/Intelij_IDEA.svg" title="Intelij_IDEA" width="60" height="60"  alt="Intelij_IDEA"/></code>
-<code><img src="media/JUnit5.svg" title="JUnit5" width="60" height="60"  alt="JUnit5"/></code>
-<code><img src="media/Gradle.svg" title="Gradle" alt="Gradle" width="50" height="50"/></code>
-<code><img src="media/Selenide.svg" title="Selenide" alt="Selenide" width="50" height="50"/></code>
-<code><img src="media/RestAssured.svg" title="RestAssured" alt="RestAssured" width="50" height="50"/></code>
+<code><img src="media/Java.svg" title="Java" width="40" height="40"  alt="Java"/></code>
+<code><img src="media/Intelij_IDEA.svg" title="Intelij_IDEA" width="40" height="40"  alt="Intelij_IDEA"/></code>
+<code><img src="media/JUnit5.svg" title="JUnit5" width="40" height="40"  alt="JUnit5"/></code>
+<code><img src="media/Gradle.svg" title="Gradle" alt="Gradle" width="40" height="40"/></code>
+<code><img src="media/Selenide.svg" title="Selenide" alt="Selenide" width="40" height="40"/></code>
+<code><img src="media/RestAssured.svg" title="RestAssured" alt="RestAssured" width="40" height="40"/></code>
 
 
-<code><img src="media/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></code>
-<code><img src="media/Jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/></code>
-<code><img src="media/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/></code>
-<code><img src="media/Git.svg" title="Git" alt="Git" width="50" height="50"/></code>
-<code><img src="media/GitHub.svg" title="GitHub" alt="GitHub" width="50" height="50"/></code>
-<code><img src="media/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/></code>
-<code><img src="media/Browserstack.svg" title="Browserstack" alt="Browserstack" width="50" height="50"/></code>
-<code><img src="media/Jira.svg" title="Jira" alt="Jira" width="50" height="50"/></code>
+<code><img src="media/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/></code>
+<code><img src="media/Jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/></code>
+<code><img src="media/Docker.svg" title="Docker" alt="Docker" width="40" height="40"/></code>
+<code><img src="media/Git.svg" title="Git" alt="Git" width="40" height="40"/></code>
+<code><img src="media/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/></code>
+<code><img src="media/Postman.svg" title="Postman" alt="Postman" width="40" height="40"/></code>
+<code><img src="media/Browserstack.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/></code>
+<code><img src="media/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/></code>
 
 ## :unicorn: Pet Projects:
 #### Java
