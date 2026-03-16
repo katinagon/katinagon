@@ -8,8 +8,8 @@
 
 ## Stack and tools:
 
-<a><img src="media/Python.svg" width="60" height="60"  alt="Python"/></a>
-<a><img src="media/Pycharm.svg" width="60" height="60"  alt="Pycharm"/></a>
+<a><img src="media/Python.svg" title="Python" width="60" height="60"  alt="Python"/></a>
+<a><img src="media/Pycharm.svg" title="Python" width="60" height="60"  alt="Pycharm"/></a>
 <a><img src="media/Pytest.svg" title="Pytest" alt="Pytest" width="50" height="50"/></a>
 <a><img src="media/Selenium.svg" title="Selenium" alt="Selenium" width="50" height="50"/></a>
 <a><img src="media/Playwright.svg" title="Playwright" alt="Playwright" width="50" height="50"/></a>
