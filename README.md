@@ -6,18 +6,20 @@
 - 💡 Specializing in Manual/Automation Testing  
 - 🏆 Passionate about finding bugs and improving product quality  
 
-## Stack:
+## Stack and tools:
 
-<a href="https://www.java.com/"><img src="media/Java.svg" width="60" height="60"  alt="Java"/></a>
-<a id ="tech" href="https://www.jetbrains.com/idea/"><img src="media/Intelij_IDEA.svg" width="60" height="60"  alt="IDEA"/></a>
-<a href="https://junit.org/junit5"><img src="media/JUnit5.svg" title="JUnit5" alt="JUnit5" width="50" height="50"/></a>
-<a href="https://selenide.org"><img src="media/Selenide.svg" title="Selenide" alt="Selenide" width="50" height="50"/></a>
-<a href="https://rest-assured.io"><img src="media/RestAssured.svg" title="REST Assured" alt="REST Assured" width="50" height="50"/></a>
-<a href="https://gradle.org"><img src="media/Gradle.svg" title="Gradle" alt="Gradle" width="50" height="50"/></a>
-<a href="https://www.jenkins.io"><img src="media/Jenkins.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/></a>
-<a href="https://www.atlassian.com/software/jira"><img src="media/Jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
-<a href="https://qameta.io/allure-report"><img src="media/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
-<a href="https://qameta.io"><img src="media/AllureTestOps.svg" title="Allure Testops" alt="Allure Testops" width="50" height="50"/></a>
+<a><img src="media/Python.svg" width="60" height="60"  alt="Python"/></a>
+<a><img src="media/Pycharm.svg" width="60" height="60"  alt="Pycharm"/></a>
+<a"><img src="media/Pytest.svg" title="Pytest" alt="Pytest" width="50" height="50"/></a>
+<a><img src="media/Selenium.svg" title="Selenium" alt="Selenium" width="50" height="50"/></a>
+<a><img src="media/Playwright.svg" title="Playwright" alt="Playwright" width="50" height="50"/></a>
+<a><img src="media/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
+<a><img src="media/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/></a>
+<a><img src="media/Git.svg" title="Git" alt="Git" width="50" height="50"/></a>
+<a><img src="media/Github.svg" title="Github" alt="Github" width="50" height="50"/></a>
+<a><img src="media/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/></a>
+<a><img src="media/Browserdtack.svg" title="Browserdtack" alt="Browserdtack" width="50" height="50"/></a>
+<a><img src="media/Jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
 
 ## My projects
 :desktop_computer: [4lapy.ru](https://github.com/katinagon/four_paws) - Test automation project (UI+API) for 4lapy.ru  
