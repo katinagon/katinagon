@@ -31,9 +31,9 @@
 <code><img src="media/Browserstack.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/></code>
 <code><img src="media/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/></code>
 
-## 👨‍🎓 Education
+## 👨‍🎓 Education 
 <table width="100%" border='0'>
-    <tr><td width="10%" valign="bottom"><img src="media/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Java</td></tr>
+    <tr><td width="10%" valign="bottom"><img src="media/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Java</br><a target="_blank" href="https://github.com/katinagon/katinagon/blob/main/media/QA%20Guru%20Certificate.png">Сертификат</a></td></tr>
     <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.png"></td><td valign="middle">Stepik</br>"Поколение Python": курс для начинающих</br><a target="_blank" href="https://stepik.org/cert/2459481">Сертификат</a></td></tr>
     <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.png"></td><td valign="middle">Stepik</br>Добрый, добрый Python с Сергеем Балакиревым</br><a target="_blank" href="https://stepik.org/cert/3088919">Сертификат</a></td></tr>
     <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.png"></td><td valign="middle">Stepik</br>Автоматизация тестирования UI с Python и Playwright. Расширенный</br><a target="_blank" href="https://stepik.org/cert/3108053">Сертификат</a></td></tr>
