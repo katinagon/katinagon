@@ -10,15 +10,15 @@
 
 <a><img src="media/Python.svg" width="60" height="60"  alt="Python"/></a>
 <a><img src="media/Pycharm.svg" width="60" height="60"  alt="Pycharm"/></a>
-<a"><img src="media/Pytest.svg" title="Pytest" alt="Pytest" width="50" height="50"/></a>
+<a><img src="media/Pytest.svg" title="Pytest" alt="Pytest" width="50" height="50"/></a>
 <a><img src="media/Selenium.svg" title="Selenium" alt="Selenium" width="50" height="50"/></a>
 <a><img src="media/Playwright.svg" title="Playwright" alt="Playwright" width="50" height="50"/></a>
 <a><img src="media/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></a>
 <a><img src="media/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/></a>
 <a><img src="media/Git.svg" title="Git" alt="Git" width="50" height="50"/></a>
-<a><img src="media/Github.svg" title="Github" alt="Github" width="50" height="50"/></a>
+<a><img src="media/GitHub.svg" title="GitHub" alt="GitHub" width="50" height="50"/></a>
 <a><img src="media/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/></a>
-<a><img src="media/Browserdtack.svg" title="Browserdtack" alt="Browserdtack" width="50" height="50"/></a>
+<a><img src="media/Browserstack.svg" title="Browserstack" alt="Browserstack" width="50" height="50"/></a>
 <a><img src="media/Jira.svg" title="Jira" alt="Jira" width="50" height="50"/></a>
 
 ## My projects
