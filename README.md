@@ -34,21 +34,21 @@
 ## 👨‍🎓 Education
 <table width="100%" border='0'>
     <tr><td width="10%" valign="bottom"><img src="media/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Java</td></tr>
-    <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.svg"></td><td valign="middle">Stepik</br>"Поколение Python": курс для начинающих</br><a target="_blank" href="https://stepik.org/cert/2459481">Сертификат</a></td></tr>
-    <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.svg"></td><td valign="middle">Stepik</br>Добрый, добрый Python с Сергеем Балакиревым</br><a target="_blank" href="https://stepik.org/cert/3088919">Сертификат</a></td></tr>
-    <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.svg"></td><td valign="middle">Stepik</br>Автоматизация тестирования UI с Python и Playwright. Расширенный</br><a target="_blank" href="https://stepik.org/cert/3108053">Сертификат</a></td></tr>
-    <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.svg"></td><td valign="middle">Stepik</br>Автоматизация тестирования API с Python. Расширенный</br><a target="_blank" href="https://stepik.org/cert/3135667">Сертификат</a></td></tr>
-  <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.svg"></td><td valign="middle">Stepik</br>Знакомство с Docker</br><a target="_blank" href="https://stepik.org/cert/3151773">Сертификат</a></td></tr>
+    <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.png"></td><td valign="middle">Stepik</br>"Поколение Python": курс для начинающих</br><a target="_blank" href="https://stepik.org/cert/2459481">Сертификат</a></td></tr>
+    <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.png"></td><td valign="middle">Stepik</br>Добрый, добрый Python с Сергеем Балакиревым</br><a target="_blank" href="https://stepik.org/cert/3088919">Сертификат</a></td></tr>
+    <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.png"></td><td valign="middle">Stepik</br>Автоматизация тестирования UI с Python и Playwright. Расширенный</br><a target="_blank" href="https://stepik.org/cert/3108053">Сертификат</a></td></tr>
+    <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.png"></td><td valign="middle">Stepik</br>Автоматизация тестирования API с Python. Расширенный</br><a target="_blank" href="https://stepik.org/cert/3135667">Сертификат</a></td></tr>
+  <tr><td width="10%" valign="bottom"><img src="media/stepik_logo.png"></td><td valign="middle">Stepik</br>Знакомство с Docker</br><a target="_blank" href="https://stepik.org/cert/3151773">Сертификат</a></td></tr>
 </table>
 
 ## :unicorn: Pet Projects:
 #### Java
-:desktop_computer: [4lapy.ru](https://github.com/katinagon/four_paws) - Test automation project (UI+API) for 4lapy.ru  
-:iphone: [Wiki-mobile-tests](https://github.com/katinagon/wiki_mobile) - Test automation project for mobile app (Android) "Wikipedia"
+- :desktop_computer: [4lapy.ru](https://github.com/katinagon/four_paws) - Test automation project (UI+API) for 4lapy.ru  
+- :iphone: [Wiki-mobile-tests](https://github.com/katinagon/wiki_mobile) - Test automation project for mobile app (Android) "Wikipedia"
 
 #### Python
-:desktop_computer: [UI-автотесты для приложения UI Course](https://github.com/katinagon/autotests-ui) - UI Course Automation Tests
-:desktop_computer: [API автотесты для микросервиса Course API](https://github.com/katinagon/autotests-api) - API Course Automation Tests
+- :desktop_computer: [UI-автотесты для приложения UI Course](https://github.com/katinagon/autotests-ui) - UI Course Automation Tests
+- :desktop_computer: [API автотесты для микросервиса Course API](https://github.com/katinagon/autotests-api) - API Course Automation Tests
 
 ## My Stats
 <p align="center">
